@@ -38,7 +38,8 @@
     <body>
         <div class="container">
             <div class="content">
-                <div class="title">this is laravel page</div>
+                <div class="title">this is laravel page
+                /div>
             </div>
         </div>
     </body>
